@@ -83,7 +83,7 @@ theme_mode: dark # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.6435-9/61492263_10157385285758784_1035203829777301504_n.jpg
+avatar: https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.6435-9/61492263_10157385285758784_1035203829777301504_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IzmawTVkTkUAX98Vmmt&_nc_ht=scontent.fsyd4-1.fna&oh=00_AT8-Bev_VE4KuBcdtMHOlFF18JXdSu5Z4qRxWepatXkjhQ&oe=632D9647
 
 # boolean type, the global switch for ToC in posts.
 toc: true
